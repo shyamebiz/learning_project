@@ -65,5 +65,9 @@ Before running SonarQube and SonarScanner, ensure that the following dependencie
 By following these steps, you can successfully analyze your code quality using SonarQube and SonarScanner. For further customization, refer to the [SonarQube Documentation](https://docs.sonarqube.org/latest/).
 
 ## Video Guide
-For a detailed walkthrough, watch this video tutorial: [SonarQube Setup Guide](https://www.youtube.com/watch?v=example)
+For a detailed walkthrough, watch this video tutorial
+(https://drive.google.com/file/d/16Jj5u-Ip19wGaCkXq0GBHVQaDqZsrn6Z/view?usp=sharing)
+You can watch the video by clicking the link below:
+[Watch the Video](https://drive.google.com/file/d/16Jj5u-Ip19wGaCkXq0GBHVQaDqZsrn6Z/view?usp=sharing)
+
 
